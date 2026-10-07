@@ -1,9 +1,3 @@
-| #66  | [aimarketing](https://aimarketing.directory/)                                                                           | Free        | Website   | [Submit](https://aimarketing.directory/submit)                                                                |
-| #67  | [aitrendz](https://aitrendz.xyz/)                                                                                       | Paid        | Website   | [Submit](https://aitrendz.xyz/submitailink/)                                                                  |
-| #68  | [gptacademy](https://gptacademy.co/)                                                                                    | Free & Paid | Website   | [Submit](https://www.gptacademy.co/)                                                                          |
-| #69  | [aispotter](https://aispotter.io/)                                                                                      | Free        | Website   | [Submit](https://airtable.com/appYRC7Mv7eFRs0Ey/shrrzZ9O2fx7mCk94)                                            |
-| #70  | [free-ai-tools-directory](https://free-ai-tools-directory.com/)                                                         | Free        | Website   | [Submit](https://freeaitoolsdirectory.com/submitrequest/)                                                     |
-| #71  | [aioftheday](https://aioftheday.com/)                                                                                   | Free        | Website   | [Submit](https://tally.so/r/nprK2q)                                                                           |
 | #72  | [victrays](https://victrays.com/)                                                                                       | Free        | Website   | [Submit](https://victrays.com/submitaitool/)                                                                  |
 | #73  | [gptforge](https://gptforge.net/)                                                                                       | Free        | Website   | [Submit](https://docs.google.com/forms/d/e/1FAIpQLSdttwE4QP8PqoDzh36Q5NUok3BdUe33thDCQ5dT_RNY2goWvQ/viewform) |
 | #74  | [theaigeneration](https://www.theaigeneration.com/)                                                                     | Free        | Website   | [Submit](https://www.theaigeneration.com/add/)                                                                |
@@ -34,8 +28,14 @@
 | #99  | [StartupBase](https://startupbase.io/)                                                                                  | Free        | Website   | [Submit](https://startupbase.io/submissions/start)                                                            |
 | #100 | [startupbuffer](https://startupbuffer.com/)                                                                             |             | Website   | [Submit]()                                                                                                    |
 | #101 | [Huzzler](https://huzzler.so)                                                                                          | Free        | Website   | [Submit](https://huzzler.so)                                                                                 |
-| #101 | [Huzzler](https://huzzler.so)                                                                                          |             | Website   | [Submit](https://huzzler.so)                                                                                 |
-| #101 | [Huzzler](https://huzzler.so)                                                                                          | Free        | Website   | [Submit](https://huzzler.so)                                                                                 |
+
+
+
+
+
+
+
+
 
 
 
